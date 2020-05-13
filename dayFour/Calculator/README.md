@@ -1,4 +1,4 @@
-Simple calculator using javascript
+Simple Calculator using javascript,html and css
 
 User Story #1: My calculator should contain a clickable element containing an = (equal sign) with a corresponding id="equals".
 
